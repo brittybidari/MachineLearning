@@ -1,5 +1,4 @@
-# Sarah Fuchi - Data Science Projects Portfolio
-
+# Britty Bidari Artificial Intelligence and Machine Learning Projects Portfolio
 ## Index
 
 This repository holds the below projects. Currently they're binned in five different categories.

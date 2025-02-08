@@ -1,4 +1,4 @@
-# Britty Bidari Artificial Intelligence and Machine Learning Projects Portfolio
+# Britty Bidari Artificial Intelligence and Machine Learning Research Compilation
 ## Index
 
 This repository holds the below projects. Currently they're binned in five different categories.
